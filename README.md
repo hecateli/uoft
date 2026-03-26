@@ -133,8 +133,6 @@ cr就是这门课只算学分不算gpa，只要及格就行。整个本科最多
 
 
 
-
-
 ## 3. 毕业要求
 最方便理解毕业要求的办法是使用[Degree Explorer](https://degreeexplorer.utoronto.ca)。
 ### 3.1 学分等级要求
@@ -172,12 +170,13 @@ br有关的信息详见[1.1.3](#br)。完成br要求有两种方式：
 进了ASIP后需要上四门培训课，第一门课完成指定作业后可以解锁ASIP的工作平台。ASIP的工作平台现在还是有点烂，大部分人都是在官网投递，只需要ASIP提供的COOP工签。本质上ASIP和PEY，COOP这些没什么区别，只是名字不同。
 
 如果你是国际生并且有实习量的需求，我强烈建议进入ASIP，为了那个工签。没有工签你就只能在暑假实习，竞争非常大。工签允许你在fall/winter实习，并且不会影响以后申请毕业工签。
+
 如果你是本地生，我建议可以先进入ASIP并在找到第一个工作后退出。有些公司会偏向于在internship program的学生，因为它们有funding。
 
 ASIP官网上有很多的work term schedule，但不是必须根据这些来。如果你找到了工作但不符合他们给的schedule，给他们发邮件拿approval就好了。
 
 ### 4.2 WorkStudy
-俗称打黑工，大部分只能拿最低时薪，但是一个很好的积累经验的机会。每年有两个term，summer和fall&winter。
+俗称当黑奴，大部分只能拿最低时薪，但是一个很好的积累经验的机会。每年有两个term，summer和fall&winter。
 summer在四月底五月初开始申请，做四个月。fall&winter在八月底开始申请，做八个月。需要在[CLNx](https://clnx.utoronto.ca/home.htm)上申请。
 
 WS的工作非常多元，有各种文员帮忙整理文件，it support，活动策划。最重要的是有很多lab招research assistant，也有招software developer的。
