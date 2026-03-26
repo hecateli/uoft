@@ -105,8 +105,11 @@ cr就是这门课只算学分不算gpa，只要及格就行。整个本科最多
 
 ### 2.1 类别
 **Specialist** - 要上的课最多，对于深度和广度都有更高的要求
+
 **Major** - 上完能对专业有一定程度的认知，但高年级课程量的要求没有specialist的多，
+
 **Minor** - 上着玩，起到扫盲作用，有可能对高年级课程有数量限制(比如最多上1.0学分的300+)
+
 **Focus** - 选课指南，需要依附于Specialist或者Major，不是必要的。
 
 <img width="560" height="171" alt="image" src="https://github.com/user-attachments/assets/9e1021af-b2fa-4424-b05d-2fec4250ff3e" />
